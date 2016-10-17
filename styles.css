@@ -1,0 +1,38 @@
+body {
+    width: 1000px;
+    margin: 0 auto;
+    height: 100%;
+    font-family: sans-serif;
+}
+header {
+    border-bottom-style: solid;
+    border-bottom-color: #1D4499;
+    border-bottom-width: 10px;
+}
+aside {
+    width: 300px;
+    height: 100%;
+    float: left;
+    position: absolute;
+}
+
+section {
+    width: 680px;
+    height: auto;
+    padding-left: 320px;
+}
+footer {
+    padding-left: 320px;
+}
+a {
+    color: #1D4499;
+    text-decoration: none;
+}
+a:hover {
+    color: #1D4499;
+    text-decoration: underline;
+}
+a:visited {
+    color: #1D4499;
+    text-decoration: none;
+}
