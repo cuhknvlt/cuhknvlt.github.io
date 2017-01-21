@@ -36,3 +36,6 @@ a:visited {
     color: #1D4499;
     text-decoration: none;
 }
+div.footnote {
+    font-size: 12px;
+}
